@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T20:17:53.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="YNwUGefyaK67rSFRYYQ8" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T20:18:28.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="nLcZzj5H4VLIS3dJUVo_" version="15.4.1" type="github">
   <diagram id="Fvn-65YiZn1jC03gowQe" name="Page-1">
     <mxGraphModel dx="696" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="Vyy-ypNkcYy1t3ppxabE-3" value="Stratégie d’appro" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="151" y="80" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Vyy-ypNkcYy1t3ppxabE-4" value="Gestion. Des contrats" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="321" y="80" width="150" height="75" as="geometry" />
+        <mxCell id="Vyy-ypNkcYy1t3ppxabE-4" value="Gestion des contrats" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Vyy-ypNkcYy1t3ppxabE-5" value="Acquisition" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="151" y="170" width="150" height="75" as="geometry" />
